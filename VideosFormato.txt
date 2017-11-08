@@ -1,0 +1,18 @@
+Tipo: 			
+Titulo: 
+Director:
+Año: 
+Acotores: 
+
+Tipo: 			
+Titulo: 
+Director:
+Año:
+Numero capitulos: 
+Temporada: 
+
+Tipo: 			
+Titulo: 
+Director:
+Año:
+genero: 
